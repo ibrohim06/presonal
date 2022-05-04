@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'SF-Pro-Display-Bold';
+    src: url(../fonts/SFT/SF-Pro-Display-Bold.otf);
+}
+@font-face {
+    font-family: 'SF-Pro-Display-Light';
+    src: url(../fonts/SFT/SF-Pro-Display-Light.otf);
+}
+@font-face {
+    font-family: 'SF-Pro-Display-Medium';
+    src: url(../fonts/SFT/SF-Pro-Display-Medium.otf);
+}
+@font-face {
+    font-family: 'SF-Pro-Display-Regular';
+    src: url(../fonts/SFT/SF-Pro-Display-Regular.otf);
+}
+@font-face {
+    font-family: 'SF-Pro-Display-Semibold';
+    src: url(../fonts/SFT/SF-Pro-Display-Semibold.otf);
+}
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
